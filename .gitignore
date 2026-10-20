@@ -10,3 +10,4 @@ __pycache__/
 *.tfstate.*
 *.tfvars
 *.tfplan
+venv311/
