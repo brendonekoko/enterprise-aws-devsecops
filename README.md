@@ -22,3 +22,19 @@ Built and deployed a containerized Financial Transaction Processing API on AWS t
 
 ## Project Result
 Successfully deployed Financial API v3 on AWS EC2 with monitoring, automated CI checks, and a deployment process with rollback logic. The project uses fictional, in-memory financial data and is intended as an engineering portfolio demonstration.
+## Project Screenshots
+
+### 1. AWS VPC Infrastructure
+![AWS VPC Infrastructure](01-AWS-VPC-Infrastructure.png)
+
+### 2. GitHub Actions CI Pipeline
+![GitHub Actions CI Pipeline](02-GitHub-Actions-CI-Pipeline.png)
+
+### 3. CloudWatch Monitoring
+![CloudWatch Monitoring](03-CloudWatch-Monitoring.png)
+
+### 4. AWS Deployment Success
+![AWS Deployment Success](04-AWS-Deployment-Success.png)
+
+### 5. Financial API Interface
+![Financial API Interface](05-Financial-API-Interface.png.png)
